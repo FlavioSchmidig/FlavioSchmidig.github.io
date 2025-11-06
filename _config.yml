@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "FlavioSchmidig24.png"
   name             : "Flavio J. Schmidig"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive Neuroscientist interested in Memory and Sleep. // Memory consolidation; rest and sleep consolidation; no-report memory; hippocampus; passive memory EEG; iEEG; eye-tracking;"
