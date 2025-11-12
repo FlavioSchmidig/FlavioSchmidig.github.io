@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage - Flavio Schmidig"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Flavio Schmidig"
 description              : &description "Cognitive Neuroscientist interested in Memory and Sleep."   # Update this with a general description of your site, this is the default if not overridden by a page
