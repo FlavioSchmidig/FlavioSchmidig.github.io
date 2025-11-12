@@ -1,6 +1,6 @@
 ---
 title: "Graduate student"
-collection: teaching
+collection: page
 permalink: /teaching/mentoring
 ---
 
