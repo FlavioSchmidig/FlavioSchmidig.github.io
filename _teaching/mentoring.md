@@ -2,7 +2,6 @@
 title: "Graduate student"
 collection: teaching
 permalink: /teaching/mentoring
-venue: "University of Bern and Tel Aviv"
 ---
 
 I have been trusted to mentor 10 graduate students and 10 research assistants/internships
