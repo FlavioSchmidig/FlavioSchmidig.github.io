@@ -6,8 +6,7 @@ permalink: /teaching/courses
 venue: "University of Bern"
 ---
 
-I have been teaching several courses in the Neuropsychological program of psychological faculty of the University of Bern.
-In addition I tought the lecture of the neural foundation of sleep.
+I have been teaching several courses in the neuropsychological program of the psychological faculty of the university of Bern.
 
 
 5 master course and a few bachelor seminar
@@ -18,3 +17,4 @@ In addition I tought the lecture of the neural foundation of sleep.
 - “Neuroanatomy”, (2020)
 - “Neurogenesis in the adult brain”, (2020)
 - "Neural Theories of Consciousness", (2021)
+- lecture on "Sleep"
