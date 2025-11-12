@@ -1,7 +1,7 @@
 ---
 title: "A visual paired associate learning (vPAL) paradigm to study memory consolidation during sleep"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/vpal
 excerpt: 'Introducing vPAL, a one-shot face–animal association paradigm, we show that a daytime nap (vs. wake) stabilizes recognition and improves discrimination without boosting cued recall, and that higher sleep spindle density predicts greater recognition stability, highlighting a simple paradigm to probe sleep-dependent memory consolidation across populations.'
 year: 2024
