@@ -1,12 +1,11 @@
 ---
 title: "Graduate student"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/mentoring
 venue: "University of Bern and Tel Aviv"
 ---
 
-I have been trusted to mentor several graduat students
+I have been trusted to mentor 10 graduate students and 10 research assistants/internships
 
 
 10 master thesis
