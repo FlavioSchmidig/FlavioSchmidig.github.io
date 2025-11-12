@@ -1,9 +1,11 @@
 ---
 title: "Graduate student"
-layout: page
+collection: teaching
 permalink: /teaching/mentoring
+type: Mentoring 10 graduate students and 10 research assistants/internships.
+venue: University of Bern and Tel Aviv
+date: 2017-10-01
 ---
-
 I have been trusted to mentor 10 graduate students and 10 research assistants/internships
 
 
