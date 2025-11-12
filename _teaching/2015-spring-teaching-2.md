@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate student"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/mentoring
+venue: "University of Bern and Tel Aviv"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have been trusted to mentor several graduat students
 
-Heading 1
-======
 
-Heading 2
+10 master thesis
 ======
+B. Ambühl, S. Glatt, \\L. Schmid, S. Ankner, L. Knüsel \\D. Yamin, Y. Mendelboim, M. Eliyahu, R. Fallach, M. Kuper
 
-Heading 3
+7 research internships
 ======
+L. Schmid,\\ E. Grebenarov, N. Skieresz, \\ O. Goldberg, L. Klein S. Aglamatz, T. Grundman
+
+4 research assistants
+======
+ R. Imlig,\\ L. Knüsel, E. Brill, Y. Nadu
