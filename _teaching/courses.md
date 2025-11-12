@@ -3,8 +3,7 @@ title: "Teaching"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/courses
-venue: "University of Bern"
-date: "2017-2021"
+
 ---
 
 I have been teaching several courses in the neuropsychological program of the psychological faculty of the university of Bern.
