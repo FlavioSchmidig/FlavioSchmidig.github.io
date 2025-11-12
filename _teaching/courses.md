@@ -1,11 +1,11 @@
 ---
 title: "Teaching"
-layout: page
+collection: teaching
 permalink: /teaching/courses/
-author_profile: true   # optional sidebar
+type: Seminare and lecture series @ neuropsychological program of the psychological faculty of the
+venue: University of Bern
+date: 2017-10-01
 ---
-
-I have been teaching several courses in the neuropsychological program of the psychological faculty of the university of Bern.
 
 
 5 master course and a few bachelor seminar
@@ -18,8 +18,3 @@ I have been teaching several courses in the neuropsychological program of the ps
 - "Neural Theories of Consciousness", (2021)
 - lecture on "Sleep"
 
-
-% title: "Teaching"
-%layout: page
-%permalink: /teaching/courses
-%date:2017-04-01
