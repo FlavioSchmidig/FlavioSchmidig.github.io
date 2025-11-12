@@ -1,7 +1,8 @@
 ---
 title: "Teaching"
-collection: teaching
+collection: page
 permalink: /teaching/courses
+
 ---
 
 I have been teaching several courses in the neuropsychological program of the psychological faculty of the university of Bern.
