@@ -10,7 +10,7 @@ I have been teaching several courses in the Neuropsychological program of psycho
 In addition I tought the lecture of the neural foundation of sleep.
 
 
-5 master course
+5 master course and a few bachelor seminar
 ======
 - “The brain in sync: synchronous oscillations for cognition”, (2017)
 - “Cognitive functions of sleep”, (2018)
