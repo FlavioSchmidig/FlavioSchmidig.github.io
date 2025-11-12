@@ -1,7 +1,8 @@
 ---
 title: "Teaching"
 layout: page
-permalink: /teaching/courses
+permalink: /teaching/courses/
+author_profile: true   # optional sidebar
 ---
 
 I have been teaching several courses in the neuropsychological program of the psychological faculty of the university of Bern.
@@ -16,3 +17,9 @@ I have been teaching several courses in the neuropsychological program of the ps
 - “Neurogenesis in the adult brain”, (2020)
 - "Neural Theories of Consciousness", (2021)
 - lecture on "Sleep"
+
+
+% title: "Teaching"
+%layout: page
+%permalink: /teaching/courses
+%date:2017-04-01
