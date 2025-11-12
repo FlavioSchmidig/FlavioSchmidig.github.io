@@ -1,7 +1,6 @@
 ---
 title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/courses
 
 ---
