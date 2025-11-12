@@ -3,8 +3,7 @@
 title: "Graduate student"
 collection: teaching
 permalink: /teaching/mentoring
-type: Mentoring 10 graduate students and 11 research assistants/internships.
-venue: University of Bern and Tel Aviv
+excerpt: Mentoring 10 graduate students and 11 research assistants/internships.
 
 ---
 
