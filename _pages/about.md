@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research of Flavio Schmidig"
+title: "Flavio Schmidig, Neuroscientist"
 author_profile: true
 redirect_from: 
   - /about/
