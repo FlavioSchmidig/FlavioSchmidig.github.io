@@ -3,7 +3,6 @@ title: "Graduate student"
 collection: teaching
 permalink: /teaching/mentoring
 type: "Mentoring 10 graduate students and 11 research assistants/internships."
-excerpt: Seminare and lecture series at the neuropsychological program of the psychological faculty of the University of Bern
 ---
 
 
