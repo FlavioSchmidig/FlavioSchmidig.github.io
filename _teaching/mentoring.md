@@ -2,7 +2,7 @@
 title: "Graduate student"
 collection: teaching
 permalink: /teaching/mentoring
-type: "Mentoring 10 graduate students and 11 research assistants/internships."
+excerpts: "Mentoring 10 graduate students and 11 research assistants/internships."
 ---
 
 
