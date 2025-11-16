@@ -3,19 +3,19 @@
 title: "Graduate student"
 collection: teaching
 permalink: /teaching/mentoring
-excerpt: Mentoring 10 graduate students and 11 research assistants/internships.
+excerpt: Mentoring 8 graduate students and 11 research assistants/internships.
 
 ---
 
 
 10 master thesis
 ======
-B. Ambühl, S. Glatt, \\L. Schmid, S. Ankner, L. Knüsel \\D. Yamin, Y. Mendelboim, M. Eliyahu, R. Fallach, M. Kuper
+B. Ambühl, S. Glatt, L. Schmid, S. Ankner, L. Knüsel, D. Yamin, Y. Mendelboim, M. Eliyahu
 
 7 research internships
 ======
-L. Schmid,\\ E. Grebenarov, N. Skieresz, \\ O. Goldberg, L. Klein S. Aglamatz, T. Grundman
+L. Schmid, E. Grebenarov, N. Skieresz, O. Goldberg, L. Klein, S. Aglamatz, T. Grundman
 
 4 research assistants
 ======
- R. Imlig,\\ L. Knüsel, E. Brill, Y. Nadu
+ R. Imlig, L. Knüsel, E. Brill, Y. Nadu
