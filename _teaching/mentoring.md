@@ -8,7 +8,7 @@ excerpt: Mentoring 8 graduate students and 11 research assistants/internships.
 ---
 
 
-10 master thesis
+8 master thesis
 ======
 B. Ambühl, S. Glatt, L. Schmid, S. Ankner, L. Knüsel, D. Yamin, Y. Mendelboim, M. Eliyahu
 
