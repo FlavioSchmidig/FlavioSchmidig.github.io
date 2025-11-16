@@ -2,7 +2,7 @@
 title: "Teaching"
 collection: teaching
 permalink: /teaching/courses/
-type: Seminare and lecture series at the neuropsychological program of the psychological faculty of the University of Bern.
+excerpts: Seminare and lecture series at the neuropsychological program of the psychological faculty of the University of Bern.
 ---
 
 
